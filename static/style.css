@@ -1,0 +1,137 @@
+body {
+    background: #2c3e50;
+    color: #ffffff;
+    font-family: 'Segoe UI', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background-color: #34495e;
+    padding: 1rem;
+}
+
+.card {
+    background-color: #3d566e;
+    color: #ffffff;
+    border: none;
+    border-radius: 10px;
+    transition: transform 0.2s;
+}
+
+.card:hover {
+    transform: scale(1.02);
+}
+
+.card-img-top {
+    height: 250px;
+    object-fit: cover;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.btn-primary, .btn-success, .btn-danger, .btn-secondary {
+    border-radius: 10px;
+    font-weight: 500;
+    padding: 8px 16px;
+}
+
+.btn-primary:hover {
+    background-color: #2980b9;
+    color: #fff;
+}
+
+.container h2 {
+    margin-bottom: 30px;
+}
+
+.alert {
+    font-weight: bold;
+}
+
+.btn-info {
+    background: linear-gradient(to right, #00c6ff, #0072ff);
+    border: none;
+    color: #fff;
+    font-weight: 500;
+    padding: 8px 16px;
+    border-radius: 10px;
+    transition: all 0.3s ease-in-out;
+}
+
+.btn-info:hover,
+.btn-outline-info:hover {
+    background: linear-gradient(to right, #6dd5ed, #2193b0);
+    color: #fff;
+    transform: scale(1.05);
+}
+
+.btn-outline-info {
+    border: 2px solid #00c6ff;
+    color: #00c6ff;
+    background-color: transparent;
+    font-weight: 500;
+    border-radius: 10px;
+    padding: 8px 16px;
+    transition: all 0.3s ease-in-out;
+}
+
+/* Animasi klik (pulse) */
+@keyframes clickPulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(0.95); }
+    100% { transform: scale(1); }
+}
+
+/* Efek ketika tombol ditekan */
+.btn:active {
+    animation: clickPulse 0.2s ease;
+}
+.btn-favorit {
+    background: linear-gradient(to right, #2980b9, #3498db);
+    border: none;
+    color: #fff;
+    font-weight: 600;
+    border-radius: 12px;
+    padding: 10px 18px;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 10px rgba(0, 198, 255, 0.2);
+}
+
+.btn-favorit:hover {
+    background: linear-gradient(to right, #6dd5fa, #2980b9);
+    transform: scale(1.05);
+    box-shadow: 0 6px 16px rgba(0, 198, 255, 0.4);
+}
+
+.btn-favorit-outline {
+    background: transparent;
+    color: #00c6ff;
+    border: 2px solid #00c6ff;
+    font-weight: 600;
+    border-radius: 12px;
+    padding: 10px 18px;
+    transition: all 0.3s ease;
+}
+
+.btn-favorit-outline:hover {
+    background: #00c6ff;
+    color: #fff;
+    transform: scale(1.05);
+}
+.btn-danger {
+    background: linear-gradient(to right, #e74c3c, #c0392b);
+    border: none;
+    color: #fff;
+    font-weight: 600;
+    border-radius: 10px;
+    padding: 8px 16px;
+    transition: all 0.3s ease;
+}
+
+.btn-danger:hover {
+    background: linear-gradient(to right, #ff6f61, #e74c3c);
+    transform: scale(1.05);
+}
+
+

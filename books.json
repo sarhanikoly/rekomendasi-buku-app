@@ -1,0 +1,145 @@
+[
+    {
+        "id": 1,
+        "judul": "Laskar Pelangi",
+        "genre": "Drama",
+        "image_url": "https://images.tokopedia.net/img/JFrBQq/2022/5/17/8ee487fc-3a26-47ff-b1e3-02a66f4d2e88.jpg",
+        "deskripsi": "Novel Laskar Pelangi karya Andrea Hirata adalah sebuah kisah inspiratif tentang persahabatan, perjuangan, dan pendidikan yang berlatar di Belitung, Indonesia. Novel ini mengisahkan tentang sepuluh anak dari keluarga kurang mampu yang bersekolah di sekolah Muhammadiyah di Desa Gantung. Mereka menghadapi berbagai tantangan, termasuk ancaman penutupan sekolah karena kekurangan siswa, tetapi semangat juang mereka untuk meraih pendidikan tidak pernah padam"
+    },
+    {
+        "id": 2,
+        "judul": "Bumi",
+        "genre": "Fantasi",
+        "image_url": "https://images.tokopedia.net/img/JFrBQq/2022/5/17/0a0c3666-d18e-454e-ac70-4c68031601f5.jpg",
+        "deskripsi": "Novel Bumi karya Tere Liye bergenre fantasi petualangan yang menceritakan kisah Raib, seorang gadis remaja dengan kemampuan menghilang, dan dua sahabatnya, Seli dan Ali, yang memiliki kekuatan super. Mereka bertiga terlibat dalam petualangan melintasi dunia paralel dan berinteraksi dengan berbagai klan, menghadapi tantangan, dan mengungkap rahasia di dunia mereka dan dunia lain"
+    },
+    {
+        "id": 3,
+        "judul": "Ubur-Ubur Lembur",
+        "genre": "Komedi ",
+        "image_url": "https://images.tokopedia.net/img/JFrBQq/2022/5/17/e9ec3c3c-920a-4012-967d-2eb5b0e50af6.jpg",
+        "deskripsi": "Buku Ubur-Ubur Lembur adalah karya Raditya Dika yang berisi kumpulan cerita pengalaman hidupnya, terutama tentang bagaimana ia belajar mencintai pekerjaannya, yaitu menulis, dan menemukan hal-hal lucu di dalamnya. Buku ini bukan hanya sekadar komedi, tetapi juga tentang perjalanan Raditya Dika dalam menemukan makna hidup dan menjadi diri sendiri."
+    },
+    {
+        "id": 4,
+        "judul":" Ayat-ayat Cinta",
+        "genre": "Romansa islami",
+        "image_url": "https://images.tokopedia.net/img/JFrBQq/2022/5/17/4c94b169-cd6f-4d6c-97b3-a585d7ba59c6.jpg",
+        "deskripsi":" Novel Ayat-Ayat Cinta adalah karya sastra yang ditulis oleh Habiburrahman El Shirazy. Novel ini menceritakan kisah cinta segitiga antara Fahri, seorang mahasiswa Indonesia di Kairo, dengan tiga wanita: Aisha, Maria, dan Nurul. Latar belakang cerita berpusat pada kehidupan mahasiswa Indonesia di Mesir, dengan unsur agama Islam yang kental. Novel ini juga mengangkat isu-isu sosial dan budaya, serta nilai-nilai moral dan keagamaan yang kuat."
+    },
+    {
+        "id": 5,
+        "judul": "Dilan 1990 ",
+        "genre": "Romantis",
+        "image_url":"https://images.tokopedia.net/img/JFrBQq/2022/5/17/067942ee-1164-4a88-9d53-313ae03610c9.jpg",
+        "deskripsi":"Novel Dilan 1990 karya Pidi Baiq adalah cerita romantis remaja yang berlatar belakang Kota Bandung tahun 1990. Novel ini mengisahkan hubungan antara Milea, seorang siswi pindahan, dengan Dilan, seorang siswa SMA yang dikenal nakal namun penuh pesona. Kisah cinta mereka berkembang di tengah kehidupan remaja Bandung pada masa itu, dengan segala dinamika, tantangan, dan nostalgia yang menyertainya."
+    },
+    {
+        "id":6,
+        "judul":"11:11 ",
+        "genre":"Fiksi",
+        "image_url": "https://images.tokopedia.net/img/JFrBQq/2022/5/17/d5e18473-516c-4519-b8dc-77d2ccffae6d.jpg",
+        "deskripsi":"Buku 11:11 karya Fiersa Besari adalah sebuah album buku yang berisi sebelas cerita pendek yang masing-masing memiliki lagu pengiring yang terhubung melalui kode QR. Buku ini mengeksplorasi berbagai tema cinta, kehidupan, dan kehilangan, dengan gaya bahasa yang khas Fiersa Besari, yaitu puitis dan penuh imajinasi. "
+    },
+    {
+        "id": 7,
+        "judul":"Bumi Manusia",
+        "genre":"fiksi sejarah",
+        "image_url":"https://images.tokopedia.net/img/JFrBQq/2022/5/17/d080d669-8c32-4f3f-9e96-2e395ea92d0e.jpg",
+        "deskripsi":"Buku Bumi Manusia adalah novel karya Pramoedya Ananta Toer yang merupakan bagian dari Tetralogi Pulau Buru. Novel ini berlatar belakang masa kolonial Belanda di Indonesia dan menceritakan kisah Minke, seorang pemuda pribumi yang bersekolah di HBS (Hogere Burger School), sebuah sekolah elit pada masa itu. Minke berjuang melawan diskriminasi dan ketidakadilan yang dialami oleh pribumi, serta menghadapi berbagai konflik sosial, kelas, dan politik yang kompleks."
+    },
+    {
+        "id":8,
+        "judul":"Cantik Itu Luka",
+        "genre":"Romantis",
+        "image_url": "https://images.tokopedia.net/img/JFrBQq/2022/5/17/59835fb2-ca25-42d0-9ba9-b5580d72519e.jpg",
+        "deskripsi":"Cantik itu Luka karya Eka Kurniawan menceritakan tentang kehidupan Dewi Ayu, seorang perempuan cantik yang dipaksa menjadi pelacur di masa kolonial Belanda dan Jepang. Kisah ini mencakup periode sejarah Indonesia dari masa penjajahan hingga pasca kemerdekaan, dengan fokus pada kehidupan Dewi Ayu dan empat anak perempuannya, serta bagaimana kecantikan dan nasib sial yang dialami oleh mereka."
+    },
+    {
+        "id":9,
+        "judul":"Rindu – Tere Liye",
+        "genre":"sejarah",
+        "image_url":"https://images.tokopedia.net/img/JFrBQq/2022/5/17/b766dc7a-adda-47fa-bbbb-c5bca80e66e5.jpg",
+        "deskripsi":"Novel Rindu karya Tere Liye mengisahkan perjalanan panjang sebuah kapal bernama Blitar Holland yang membawa rombongan jamaah haji Indonesia dari Makassar ke Mekkah pada tahun 1938. Novel ini tidak hanya menampilkan kisah perjalanan ibadah, tetapi juga menyelipkan berbagai kisah kehidupan, kerinduan, dan konflik yang dialami para penumpang."
+
+    },
+    {
+        "id":10,
+        "judul":"Lelaki Harimau",
+        "genre":"Fantasi",
+        "image_url":"https://images.tokopedia.net/img/JFrBQq/2022/5/17/56b4497a-e45b-4743-a31c-192cd4cf721c.jpg",
+        "deskripsi":"Novel Lelaki Harimau karya Eka Kurniawan adalah sebuah karya sastra yang menceritakan kisah Margio, seorang pemuda yang terlibat dalam pembunuhan brutal terhadap Anwar Sadat di sebuah kota kecil. Pembunuhan ini menjadi awal dari terungkapnya berbagai rahasia dan kompleksitas kehidupan di kota tersebut, termasuk kisah cinta, pengkhianatan, dan kekerasan. "
+    },
+    {
+        "id":11,
+        "judul":" Bajak Laut & Purnama Terakhir ",
+        "genre":"Komedi Sejarah",
+        "image_url":"https://images.tokopedia.net/img/JFrBQq/2022/5/17/a29821ac-62c9-44d4-a6be-fb660aaa100e.jpg",
+        "deskripsi":"ajak Laut & Purnama Terakhir adalah sebuah novel karya Adhitya Mulya yang menggabungkan unsur komedi, sejarah, dan petualangan. Novel ini bercerita tentang Jaka, seorang bajak laut bodoh, dan krunya yang berpetualang di masa kolonial Indonesia. Mereka memiliki misi penting yang harus diselesaikan sebelum purnama terakhir. "
+    },
+    {
+        "id": 12,
+        "judul":"Negeri 5 Menara",
+        "genre":"fiksi",
+        "image_url":"https://images.tokopedia.net/img/JFrBQq/2022/5/17/98e83a31-2468-489b-9b53-ca74f8546bac.jpg",
+        "deskripsi":"Novel Negeri 5 Menara karya Ahmad Fuadi adalah cerita tentang persahabatan, perjuangan, dan mimpi yang berlatar di Pondok Madani, sebuah pesantren di Ponorogo, Jawa Timur. Novel ini mengisahkan perjalanan Alif Fikri, seorang santri dari Maninjau, Sumatera Barat, bersama lima sahabatnya yang berasal dari berbagai daerah di Indonesia. Mereka bersama-sama menimba ilmu, menghadapi tantangan, dan berjuang untuk mewujudkan mimpi mereka, yaitu menggapai jendela dunia."
+    },
+    {
+        "id":13,
+        "judul":"Ngenest ",
+        "genre":"Komedi ",
+        "image_url":"https://images.tokopedia.net/img/JFrBQq/2022/5/17/51507ea8-a6db-4adb-94fb-a4468c31e413.jpg",
+        "deskripsi":"Buku Ngenest karya Ernest Prakasa adalah sebuah kumpulan cerita pendek non-fiksi yang mengisahkan pengalaman hidup Ernest, terutama sebagai seorang minoritas Tionghoa di Indonesia dan sebagai seorang suami. Buku ini ditulis dengan gaya humor, menampilkan cerita-cerita lucu dan absurd dari pengalaman sehari-hari Ernest, baik sebagai individu maupun dalam kehidupan keluarganya"
+    },
+    {
+        "id":14,
+        "judul":" Milea ",
+        "genre":"Romantis",
+        "image_url":"https://images.tokopedia.net/img/JFrBQq/2023/8/22/73d0b82e-b200-4a70-87cf-3df795a66c1a.jpg",
+        "deskripsi":"Novel ini mengisahkan kelanjutan kisah cinta Dilan dan Milea, namun kali ini dari perspektif Dilan. Pembaca akan diajak untuk memahami lebih dalam karakter Dilan, termasuk alasan-alasan di balik tindakannya yang unik dan kadang kontroversial. Novel ini juga mengungkap cerita-cerita yang belum terungkap di novel sebelumnya, seperti penyebab kematian Akew dan insiden di kantor polisi. Melalui novel ini, pembaca akan disuguhi romantisme masa remaja di Bandung tahun 90-an, lengkap dengan kehidupan sekolah, geng motor, dan persahabatan"
+    },
+    {
+        "id":15,
+        "judul":"Untuk Matamu ",
+        "genre":"Puisi",
+        "image_url":"https://images.tokopedia.net/img/JFrBQq/2023/8/22/fdaf18e7-68a9-425a-90cd-c8530ff270f1.jpg",
+        "deskripsi":"Untuk Matamu adalah buku puisi karya Karisma P. Lanang yang mayoritas puisinya berbicara tentang cinta dan hubungan antar manusia. Buku ini dikenal karena pilihan kata yang ringkas, mudah diingat, dan sering dikutip. Puisi-puisinya digambarkan seperti kicauan burung yang merdu dan menenangkan, membuat pembaca terbuai. Buku ini menjadi karya tunggal pertama penulis yang berisi jejak kepenulisannya"
+    },
+    {
+        "id":16,
+        "judul":"Perahu Kertas",
+        "genre":"Romantis",
+        "image_url":"https://images.tokopedia.net/img/JFrBQq/2023/8/22/c9cd84c7-8061-42aa-8702-c273347cbcdb.jpg",
+        "deskripsi":"Novel Perahu Kertas karya Dewi Dee Lestari adalah cerita tentang persahabatan, cinta, dan idealisme yang berpusat pada dua tokoh utama, Kugy dan Keenan. Kugy, seorang gadis dengan imajinasi tinggi yang bercita-cita menjadi penulis dongeng, dan Keenan, seorang pemuda berbakat dalam melukis yang harus kembali ke Indonesia setelah tinggal di Amsterdam. Kisah mereka terjalin dengan latar belakang kehidupan mahasiswa di Bandung, dan diwarnai oleh berbagai konflik dan tantangan yang dihadapi dalam meraih mimpi dan cinta. "
+    },
+    {
+        "id":17,
+        "judul":"Jagat Lelembut - Kisah Tanah Jawa 2",
+        "genre":"Horor",
+        "image_url":"https://images.tokopedia.net/img/HCoJbh/2025/3/12/1081eb4b-43c9-4ee6-a61f-ef71ed8f6f6b.jpg",
+        "deskripsi":"Kisah Tanah Jawa 2 - Jagat Lelembut” adalah perjalanan misteri ke dunia para makhluk halus atau yang disebut Jagat Lelembut. Tim Kisah Tanah Jawa mengungkap cerita dan pengalaman mereka dalam menjelajah hingga lapisan terdalam dari dunia tersebut. Buku ini tidak hanya menyajikan kisah-kisah yang menyeramkan, tetapi juga dilengkapi dengan ilustrasi dari makhluk-makhluk yang mereka temui. Pembaca diajak mengenal lebih dekat sosok-sosok yang jarang terekspos, seperti lelembut yang beragam jenisnya. Setiap halaman menawarkan sensasi tegang yang membuat penasaran sekaligus menguji nyali."
+    },
+    {
+        "id":18,
+        "judul":"Janhsen - Risa Saraswati ",
+        "genre":"Horor",
+        "image_url":"https://images.tokopedia.net/img/HCoJbh/2025/3/12/b61bd7ba-2574-4e30-8dab-d0bb57655c6e.jpg",
+        "deskripsi":"Dengan cerita yang mendalam, “Janhsen” karya Risa Saraswati membawa kamu ke dalam kehidupan arwah kecil yang dikenal sebagai Janshen. Dianggap sebagai pembawa kebahagiaan sejak lahir, tak banyak yang tahu tentang kesedihan yang pernah dia alami semasa hidupnya. Sosoknya yang ceria ternyata menyimpan berbagai masalah berat, membuat pembaca ikut merasakan sisi gelap kehidupannya. Melalui sudut pandang yang menyentuh, novel horor terbaik ini mengajak pembaca memahami bagaimana masa lalu Janshen membentuk dirinya. Novel ini memberikan pengalaman emosional yang tidak hanya menyeramkan, tetapi juga penuh empati bagi kamu yang penasaran akan kehidupan setelah kematian."
+    },
+    {
+        "id":19,
+        "judul":"Sewu Dino - Simpleman",
+        "genre":"Horor",
+        "image_url":"https://images.tokopedia.net/img/HCoJbh/2025/3/12/54ee509c-b22a-42dc-9141-f7628553bc03.jpg",
+        "deskripsi":"Sewu Dino adalah kisah klenik dari Simpleman yang membawa kamu ke dalam dunia mistis tanah Jawa yang gelap dan menakutkan. Sri, seorang asisten rumah tangga, harus merawat Dela Atmojo yang dikutuk dengan santet seribu hari. Dalam kisah ini, teror dan rasa penasaran bercampur menjadi satu, membuat pembaca ikut merasakan ketegangan yang dihadapi Sri. Semakin dalam kamu masuk ke dalam cerita, semakin kuat perasaan seakan tidak ada jalan keluar. Simpleman mengemas pengalaman horor yang tidak hanya menyeramkan tetapi juga memiliki nilai budaya Jawa. Jika kamu penggemar horor yang terinspirasi dari kisah nyata, novel horor terbaik ini wajib ada di rak bukumu."
+    },
+    {
+        "id":20,
+        "judul":"Gong Nyai Gandrung ",
+        "genre":"Horor",
+        "image_url":"https://images.tokopedia.net/img/HCoJbh/2025/3/12/6dfeaa75-72e9-41cb-ba52-32f5bffe2e05.jpg",
+        "deskripsi":"Buku Gong Nyai Gandrung karya Sekar Ayu Asmara menceritakan kisah pasangan pengantin baru, Waru dan Kintan, yang pindah ke sebuah rumah tua di Magelang. Mereka langsung jatuh cinta pada rumah tersebut dan disambut oleh penjaga rumah, Pak Wage dan Mbok Jum. Namun, setelah menemukan gong di gudang, mereka mulai dihantui mimpi buruk dan kejadian aneh. "
+    }
+
+    
+]

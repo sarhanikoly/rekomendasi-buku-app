@@ -1,0 +1,50 @@
+{% extends "layout.html" %}
+{% block title %}Hasil Pencarian{% endblock %}
+{% block content %}
+
+<h2 class="text-center">🔍 Hasil Pencarian untuk: "<em>{{ keyword }}</em>"</h2>
+
+{% if books %}
+    <div class="row row-cols-1 row-cols-md-3 g-4 mt-3">
+        {% for book in books %}
+        <div class="col">
+            <div class="card h-100 shadow-sm">
+                <img src="{{ book.image_url }}" class="card-img-top" alt="{{ book.judul }}">
+                <div class="card-body">
+                    <h5 class="card-title">{{ book.judul }}</h5>
+                    <p class="card-text"><i>{{ book.genre }}</i></p>
+                    <a href="{{ url_for('detail', id=book.id) }}" class="btn btn-primary">Lihat Detail</a>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+{% else %}
+    <div class="alert alert-warning mt-4 text-center">⚠️ Tidak ditemukan buku dengan kata kunci tersebut.</div>
+
+    {% if rekomendasi_ai %}
+    <div class="mt-5">
+        <h4>✨ Rekomendasi Berdasarkan Genre Favoritmu: <strong>{{ genre_favorit }}</strong></h4>
+        <div class="row row-cols-1 row-cols-md-3 g-4 mt-3">
+            {% for book in rekomendasi_ai %}
+            <div class="col">
+                <div class="card h-100 shadow-sm">
+                    <img src="{{ book.image_url }}" class="card-img-top" alt="{{ book.judul }}">
+                    <div class="card-body">
+                        <h5 class="card-title">{{ book.judul }}</h5>
+                        <p class="card-text"><i>{{ book.genre }}</i></p>
+                        <a href="{{ url_for('detail', id=book.id) }}" class="btn btn-primary">Lihat Detail</a>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    {% endif %}
+{% endif %}
+
+<div class="mt-4 text-center">
+    <a href="{{ url_for('home') }}" class="btn btn-secondary">← Kembali ke Beranda</a>
+</div>
+
+{% endblock %}

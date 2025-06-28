@@ -1,0 +1,49 @@
+{% extends 'layout.html' %}
+
+{% block content %}
+<div class="container mt-5">
+    <h2 class="text-center text-info mb-4">✨ Rekomendasi Berdasarkan Genre Favoritmu</h2>
+
+    {% if pesan %}
+        <div class="alert alert-info text-center">{{ pesan }}</div>
+    {% else %}
+        <p class="text-center" style="font-size: 18px;">Genre favorit kamu: <strong style="color:#90f7ec;">{{ genre }}</strong></p>
+
+        <div class="row row-cols-1 row-cols-md-3 g-4 mt-4">
+            {% for buku in rekomendasi %}
+            <div class="col">
+                <div class="card h-100 shadow" style="background: rgba(255,255,255,0.05); border-radius: 18px; overflow: hidden;">
+                    {% if buku.image_url %}
+                        <img src="{{ buku.image_url }}" class="card-img-top" style="height: 220px; object-fit: cover;" alt="{{ buku.judul }}">
+                    {% else %}
+                        <div class="bg-secondary text-center text-white py-4">Tidak ada gambar</div>
+                    {% endif %}
+                    <div class="card-body">
+                        <h5 class="card-title text-white">{{ buku.judul }}</h5>
+                        <p class="card-text text-light">📚 <strong>Genre:</strong> {{ buku.genre }}</p>
+                        <a href="{{ url_for('detail', id=buku.id) }}" class="btn btn-gradient w-100">Lihat Detail</a>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    {% endif %}
+</div>
+
+<style>
+    .btn-gradient {
+        background: linear-gradient(to right, #00c6ff, #0072ff);
+        border: none;
+        color: white;
+        border-radius: 10px;
+        font-weight: bold;
+        transition: 0.3s ease-in-out;
+    }
+
+    .btn-gradient:hover {
+        background: linear-gradient(to right, #90f7ec, #32ccbc);
+        color: black;
+        transform: scale(1.03);
+    }
+</style>
+{% endblock %}

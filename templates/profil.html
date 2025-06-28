@@ -1,0 +1,38 @@
+{% extends 'layout.html' %}
+
+{% block content %}
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card shadow-lg border-0">
+                <div class="card-header bg-gradient text-white" style="background: linear-gradient(to right, #00c6ff, #0072ff);">
+                    <h4 class="mb-0">👤 Profil Pengguna</h4>
+                </div>
+                <div class="card-body bg-dark text-white">
+                    <p><strong>👩 Username:</strong> {{ username }}</p>
+                    <p><strong>📚 Jumlah Buku Favorit:</strong> {{ jumlah_favorit }}</p>
+                    <p><strong>🎯 Genre Favorit:</strong> {{ genre_favorit or 'Belum ada' }}</p>
+
+                    <hr class="text-secondary">
+
+                    <h5>💙 Buku Favorit:</h5>
+                    {% if buku_favorit %}
+                    <ul class="list-group list-group-flush">
+                        {% for buku in buku_favorit %}
+                        <li class="list-group-item bg-transparent text-white d-flex justify-content-between align-items-center border-bottom border-secondary">
+                            <span>{{ buku.judul }}</span>
+                            <span class="badge bg-info text-dark">{{ buku.genre }}</span>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                    {% else %}
+                    <div class="alert alert-warning mt-3 text-dark">Belum ada buku favorit yang disimpan.</div>
+                    {% endif %}
+
+                    <a href="{{ url_for('home') }}" class="btn btn-secondary mt-4">← Kembali ke Beranda</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
